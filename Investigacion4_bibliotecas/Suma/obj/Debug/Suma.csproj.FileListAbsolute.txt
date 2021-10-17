@@ -1,0 +1,7 @@
+C:\Users\braya\Desktop\SOA\Investigacion4\Investigacion4_bibliotecas\Suma\bin\Debug\Suma.dll
+C:\Users\braya\Desktop\SOA\Investigacion4\Investigacion4_bibliotecas\Suma\bin\Debug\Suma.pdb
+C:\Users\braya\Desktop\SOA\Investigacion4\Investigacion4_bibliotecas\Suma\bin\Debug\OperacionesCalculadora.pdb
+C:\Users\braya\Desktop\SOA\Investigacion4\Investigacion4_bibliotecas\Suma\obj\Debug\Suma.csproj.AssemblyReference.cache
+C:\Users\braya\Desktop\SOA\Investigacion4\Investigacion4_bibliotecas\Suma\obj\Debug\Suma.csproj.CoreCompileInputs.cache
+C:\Users\braya\Desktop\SOA\Investigacion4\Investigacion4_bibliotecas\Suma\obj\Debug\Suma.dll
+C:\Users\braya\Desktop\SOA\Investigacion4\Investigacion4_bibliotecas\Suma\obj\Debug\Suma.pdb

@@ -1,0 +1,7 @@
+C:\Users\braya\Desktop\SOA\Investigacion4\Investigacion4_bibliotecas\Resta\bin\Debug\Resta.dll
+C:\Users\braya\Desktop\SOA\Investigacion4\Investigacion4_bibliotecas\Resta\bin\Debug\Resta.pdb
+C:\Users\braya\Desktop\SOA\Investigacion4\Investigacion4_bibliotecas\Resta\bin\Debug\OperacionesCalculadora.pdb
+C:\Users\braya\Desktop\SOA\Investigacion4\Investigacion4_bibliotecas\Resta\obj\Debug\Resta.csproj.AssemblyReference.cache
+C:\Users\braya\Desktop\SOA\Investigacion4\Investigacion4_bibliotecas\Resta\obj\Debug\Resta.csproj.CoreCompileInputs.cache
+C:\Users\braya\Desktop\SOA\Investigacion4\Investigacion4_bibliotecas\Resta\obj\Debug\Resta.dll
+C:\Users\braya\Desktop\SOA\Investigacion4\Investigacion4_bibliotecas\Resta\obj\Debug\Resta.pdb

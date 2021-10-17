@@ -1,0 +1,6 @@
+C:\Users\braya\Desktop\SOA\Investigacion4\Investigacion4_bibliotecas\OperacionesCalculadora\bin\Debug\OperacionesCalculadora.dll
+C:\Users\braya\Desktop\SOA\Investigacion4\Investigacion4_bibliotecas\OperacionesCalculadora\bin\Debug\OperacionesCalculadora.pdb
+C:\Users\braya\Desktop\SOA\Investigacion4\Investigacion4_bibliotecas\OperacionesCalculadora\obj\Debug\OperacionesCalculadora.csproj.AssemblyReference.cache
+C:\Users\braya\Desktop\SOA\Investigacion4\Investigacion4_bibliotecas\OperacionesCalculadora\obj\Debug\OperacionesCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\braya\Desktop\SOA\Investigacion4\Investigacion4_bibliotecas\OperacionesCalculadora\obj\Debug\OperacionesCalculadora.dll
+C:\Users\braya\Desktop\SOA\Investigacion4\Investigacion4_bibliotecas\OperacionesCalculadora\obj\Debug\OperacionesCalculadora.pdb
