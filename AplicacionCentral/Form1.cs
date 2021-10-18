@@ -78,8 +78,16 @@ namespace AplicacionCentral
 
         private void PluginsCombo_SelectedIndexChanged(object sender, EventArgs e)
         {
-            calculadora.cargarOperacion(PluginsCombo.Text);
-            LabelDescripcion.Text = calculadora.DescripcionOperacion;
+            try
+            {
+                calculadora.cargarOperacion(PluginsCombo.Text);
+                LabelDescripcion.Text = calculadora.DescripcionOperacion;
+            }
+            catch (Exception exception)
+            {
+                Console.WriteLine(exception);
+            }
+
         }
 
 
